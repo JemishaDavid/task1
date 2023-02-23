@@ -1,0 +1,57 @@
+body {
+    background-color: lavender;
+}
+@font-face {
+    font-family: AutumnFlowers ;
+    src: url(./font/AutumnFlowers-9YVZK.otf);
+}
+h1 {
+    font-family: AutumnFlowers;
+    text-align: center;
+    font-size: 60px;
+}
+@font-face {
+    font-family: GeraldinePersonalUseltalic;
+    src: url(./font/GeraldinePersonalUseItalic-PK12m.ttf);
+}
+h2 {
+    font-family: GeraldinePersonalUseltalic;
+    text-align: center;
+    font-size: 60px;
+}
+@font-face {
+    font-family: Katerlin ;
+    src: url(./font/Katerlin-51zjB.ttf);
+}
+h3 {
+    font-family: Katerlin;
+    text-align: center;
+    font-size: 60px;
+}
+@font-face {
+    font-family: LucySaidOkPersonalUseltalic;
+    src: url(./font/LucySaidOkPersonalUseItalic-OV9ee.ttf);
+}
+h4 {
+    font-family: LucySaidOkPersonalUseltalic;
+    text-align: center;
+    font-size: 60px;
+    }
+@font-face {
+    font-family: Sketsaramadhan ;
+    src: url(./font/Sketsaramadhan-nRLAO.otf);
+}
+h5 {
+    font-family: Sketsaramadhan;
+    text-align: center;
+    font-size: 60px;
+}
+@font-face {
+    font-family: CastyaCalligraphy;
+    src: url(./font/CastyaCalligraphy-WyZoY.ttf);
+}
+h6 {
+    font-family: CastyaCalligraphy;
+    text-align: center;
+    font-size: 40px;
+}
