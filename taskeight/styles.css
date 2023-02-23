@@ -1,0 +1,15 @@
+table, th, td {
+    border: 2px solid;
+    border-collapse: collapse;
+    padding: 15px;
+    width: 500px;
+    font-size: large;
+}
+figcaption {
+    text-align: center;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
