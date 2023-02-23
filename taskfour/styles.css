@@ -1,0 +1,37 @@
+.case {
+   background-color: beige;
+   border: 3px black;
+   height: 500px;
+   width: 700px;
+   padding: 25px;
+   position: relative;
+   left: 300px;
+   margin-top: 2px;
+}
+.box {
+    background-color: rgb(240, 67, 67);
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: calc(150px + 50px);
+    left: calc(500px + 500px);
+   
+}
+.line1 {
+    background-color: black;
+    height: 120px;
+    width: 5px;
+    position: absolute;
+    top: calc(5px + 5px);
+    left: calc(50px + 25px);
+    transform: rotate(45deg);
+}
+.line2 {
+    background-color: black;
+    height: 120px;
+    width: 5px;
+    position: absolute;
+    top: calc(5px + 5px);
+    left: calc(50px + 25px);
+    transform: rotate(-45deg);
+}
